@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 29px;
+}
+
+section{ 
+    text-align: center;
+    font-size: 24px;
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-left:15px;
+    border-right: 15px;
+}
+
+ul{
+    list-style: none;
+}
+
+body {
+background: #000000;
+background: linear-gradient(143deg, rgba(0, 0, 0, 1) 0%, rgba(255, 0, 0, 1) 38%, rgba(0, 0, 0, 1) 100%);
+}
+p{  
+
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+}
